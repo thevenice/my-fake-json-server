@@ -1,0 +1,24 @@
+{
+    "users":[
+        {
+            "id":1,
+            "name":"Krunal Rathod",
+            "username":"K29296",
+            "email":"krunal.rathod29296@gmail.com",
+            "address":{
+                "street":"IOC road",
+                "society":"Bhakti nagar",
+                "city":"Ahmedabad",
+                "zipcode":"382929"
+            },
+            "phone":"8160474879",
+            "website":"brandingman.in",
+            "company":{
+                "name":"Branding Man",
+                "chatchPhrase":"Help your business to grow",
+                "bs":"digital marketing agency"
+
+            }
+        }
+    ]
+}
